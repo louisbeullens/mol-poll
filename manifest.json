@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "De Mol",
+  "name": "De Mol",
+  "scope": "https://louisbeullens.github.io/mol-poll/",
   "icons": [
     {
       "src": "favicon.ico",
