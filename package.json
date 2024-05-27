@@ -1,6 +1,7 @@
 {
   "name": "mol-poll",
   "version": "0.1.0",
+  "homepage": "/mol-poll",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
@@ -86,7 +87,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "predeploy": "yarn run build",
+    "deploy": "ghpages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -109,6 +112,7 @@
   "devDependencies": {
     "@types/dom-navigation": "^1.0.3",
     "@types/styled-components": "^5.1.34",
-    "@types/uuid": "^9.0.8"
+    "@types/uuid": "^9.0.8",
+    "ghpages": "^0.0.10"
   }
 }

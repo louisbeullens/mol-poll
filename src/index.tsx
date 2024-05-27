@@ -23,7 +23,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
-      <BrowserRouter>
+      <BrowserRouter basename="/mol-poll">
         <Provider store={store}>
           <Routes>
             <Route path="/admin/*" element={<AdminApp />} />
