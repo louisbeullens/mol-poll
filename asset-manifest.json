@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/mol-poll/static/css/main.d5289b2f.css",
-    "main.js": "/mol-poll/static/js/main.c890ad5f.js",
+    "main.js": "/mol-poll/static/js/main.ea80d092.js",
     "static/js/453.d119f039.chunk.js": "/mol-poll/static/js/453.d119f039.chunk.js",
     "static/media/fingerprint_1.png": "/mol-poll/static/media/fingerprint_1.87bdcd5b3a2c14ea969a.png",
     "static/media/feather-sprite.svg": "/mol-poll/static/media/feather-sprite.7f345e544de5860b88db5e58e249779e.svg",
     "service-worker.js": "/mol-poll/service-worker.js",
     "index.html": "/mol-poll/index.html",
     "main.d5289b2f.css.map": "/mol-poll/static/css/main.d5289b2f.css.map",
-    "main.c890ad5f.js.map": "/mol-poll/static/js/main.c890ad5f.js.map",
+    "main.ea80d092.js.map": "/mol-poll/static/js/main.ea80d092.js.map",
     "453.d119f039.chunk.js.map": "/mol-poll/static/js/453.d119f039.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.c890ad5f.js"
+    "static/js/main.ea80d092.js"
   ]
 }
